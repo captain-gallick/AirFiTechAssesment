@@ -1,0 +1,64 @@
+[
+  {
+    "id": "1",
+    "name": "EasyJet",
+    "country": "United Kingdom",
+    "headquarters": "London Luton Airport",
+    "fleet_size": 342,
+    "website": "https://www.easyjet.com",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/EasyJet_logo.svg"
+  },
+  {
+    "id": "2",
+    "name": "Jet2",
+    "country": "United Kingdom",
+    "headquarters": "Leeds Bradford Airport",
+    "fleet_size": 119,
+    "website": "https://www.jet2.com",
+    "logo_url": "https://www.logo.wine/a/logo/Jet2.com/Jet2.com-Logo.wine.svg"
+  },
+  {
+    "id": "3",
+    "name": "Air India",
+    "country": "India",
+    "headquarters": "New Delhi",
+    "fleet_size": 120,
+    "website": "https://www.airindia.com",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Air_India.svg"
+  },
+  {
+    "id": "4",
+    "name": "IndiGo",
+    "country": "India",
+    "headquarters": "Gurugram",
+    "fleet_size": 350,
+    "website": "https://www.goindigo.in",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/IndiGo_Airlines_logo.svg"
+  },
+  {
+    "id": "5",
+    "name": "Singapore Airlines",
+    "country": "Singapore",
+    "headquarters": "Singapore",
+    "fleet_size": 158,
+    "website": "https://www.singaporeair.com",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/en/6/6b/Singapore_Airlines_Logo_2.svg"
+  },
+  {
+    "id": "6",
+    "name": "Lufthansa",
+    "country": "Germany",
+    "headquarters": "Cologne",
+    "fleet_size": 275,
+    "website": "https://www.lufthansa.com",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Lufthansa_Logo_2018.svg"
+  },
+  {"id": "7",
+    "name": "Delta Air Lines",
+    "country": "United States",
+    "headquarters": "Atlanta, Georgia",
+    "fleet_size": 910,
+    "website": "https://www.delta.com",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Delta_logo.svg"
+  }
+]

@@ -25,8 +25,6 @@ Challenges Faced
 	•	State Management with Compose: Ensuring efficient and correct state management in Jetpack Compose, especially with asynchronous data loading and error handling.
 	•	Network Error Handling: Implementing robust error handling for network requests (e.g., no internet connection, server errors) and providing meaningful feedback to the user.
 	•	Lazy Loading Performance: Optimizing the lazy-loading scrollable list for smooth performance with a large number of items.
-	•	Mocking API: Setting up and managing a local mocked API for development and testing purposes.
-Potential Improvements
 	•	Offline Caching: Implement a robust offline caching mechanism using a local database (Realm) to allow users to browse airlines even without an internet connection.
 	•	Dark Mode Support: Implement a dark theme for improved user experience in low-light conditions.
 	•	Improved Error States: Provide more detailed and user-friendly error messages and recovery options for network failures or other issues.

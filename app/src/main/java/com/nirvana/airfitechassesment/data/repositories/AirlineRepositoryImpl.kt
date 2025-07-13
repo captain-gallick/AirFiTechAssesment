@@ -33,7 +33,7 @@ class AirlineRepositoryImpl @Inject constructor(
             is NetworkResult.Success -> {
                 val localJson = jsonUtils.loadAirlinesFromAssets()
                 localRepository.saveAirlines(localJson)
-                emit(NetworkResult.Success(localJson)) // 👈 override with local
+                emit(NetworkResult.Success(localJson)) // override with local
             }
             is NetworkResult.Error -> {
                 if (!cached.isNullOrEmpty()) {
